@@ -19,11 +19,11 @@
                 <key>bundle-identifier</key>
                 <string>co.orchard.insurancebounceapp</string>
                 <key>bundle-version</key>
-                <string>10223</string>
+                <string>10224</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>BounceApp</string>
+                <string>Bounce 📱</string>
             </dict>
         </dict>
     </array>
